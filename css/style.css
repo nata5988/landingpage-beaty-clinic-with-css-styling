@@ -1,24 +1,27 @@
+
 h1   {
       font-family:sans-serif;
-      font-weight:bolder;
-      font-size: 13px;}
+      font-weight:bold;
+      font-size: 14px;
+      margin-left: 0.5%;}
 
 #one {
       margin-bottom: 0%;
       margin-top: 1%;}
 
 #two {
-    margin-top: 0%;
+      margin-top: 0%;
       margin-bottom: 0%;}
 
 h2   
      {
-      font-size: 40px;
+      font-size: 35px;
       font-family: sans-serif;
       font-weight:bold;
-      margin-right: 82%; 
-      margin-top: 1%;}
+      margin-right: 83.6%; 
+      margin-top: 0%;
+      margin-left: 0.5%;}
 
 img  {
-      margin-top: 1%;}
+      margin-top: 0.6%;}
    
